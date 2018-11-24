@@ -46,7 +46,7 @@ namespace Nop.Plugin.Widgets.Arazsoft.Controllers
         {
 
 
-            //.well-known/acme-challenge/ge8pmTMLcZ3K3Yo88uEbvZWQFTg2QHSanybuzNqZGvo
+            //.well-known/acme-challenge/{filename}
 
 
             if (filename == null)
