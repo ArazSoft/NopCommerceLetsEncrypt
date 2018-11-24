@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "LetEncrypt Patch",
+  "SystemName": "Misc.ArazSoft.LetsEncRypt",
+  "Version": "1.00",
+  "SupportedVersions": [ "4.00" ],
+  "Author": "ArazSoft team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.LetsEncrypt.dll",
+  "Description": "This plugin allows you to use Lets Encrypt"
+}
